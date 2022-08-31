@@ -1,0 +1,20 @@
+PODS:
+  - GTProgressBar (0.3.3)
+  - Kingfisher (7.3.2)
+
+DEPENDENCIES:
+  - GTProgressBar (~> 0.3)
+  - Kingfisher (~> 7.0)
+
+SPEC REPOS:
+  trunk:
+    - GTProgressBar
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  GTProgressBar: a480283ecb0ada50de16c71e634892826928f640
+  Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
+
+PODFILE CHECKSUM: 32d2ed4953f9f5132adcbbe1824193a4a2792273
+
+COCOAPODS: 1.11.3

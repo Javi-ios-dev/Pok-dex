@@ -4,10 +4,49 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>PlaygroundChart (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>PlaygroundChart (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>PlaygroundChart (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Pokedex.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DFEBCD2828B8438300B8A5D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DFEBCD4128B8438500B8A5D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DFEBCD4B28B8438500B8A5D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
